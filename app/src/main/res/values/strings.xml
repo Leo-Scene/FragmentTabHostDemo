@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dmeo</string>
+    <string name="main">我的</string>
+    <string name="chat">聊天</string>
+    <string name="home">主页</string>
+    <string name="menu_search">查找</string>
+    <string name="menu_notifications">通知</string>
+    <string name="menu_settings">设置</string>
+    <string name="menu_about_us">关于</string>
+    <string name="home_page">首页</string>
+</resources>
