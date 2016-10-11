@@ -91,6 +91,12 @@ public class HomeFragment extends Fragment {
 
     }
 
+    /**
+    * 初始化数据源
+    *
+    *@author 乐文
+    *created at 2016/10/11 下午4:35
+    */
     private void initData() {
         mArrayList = new ArrayList<ItemInfo>();
 
@@ -125,6 +131,12 @@ public class HomeFragment extends Fragment {
     }
 
 
+    /**
+    * 初始化toolbar
+    *
+    *@author 乐文
+    *created at 2016/10/11 下午4:35
+    */
     private void initToolBar(View rootView) {
         Toolbar toolbar = (Toolbar) rootView.findViewById(R.id.toolbar);
         toolbar.inflateMenu(R.menu.my_toolbar_menu);
@@ -142,6 +154,12 @@ public class HomeFragment extends Fragment {
         toolbar.setTitleTextColor(getResources().getColor(android.R.color.white));
     }
 
+    /**
+    * 初始化广告轮播
+    *
+    *@author 乐文
+    *created at 2016/10/11 下午4:35
+    */
     private void initSlider(View rootView) {
         sliderShow = (SliderLayout) rootView.findViewById(R.id.slider);
         indicator = (PagerIndicator)
