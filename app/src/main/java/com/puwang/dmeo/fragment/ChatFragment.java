@@ -6,15 +6,20 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.RadioGroup;
+import android.widget.Toast;
 
 import com.puwang.dmeo.R;
+
+import butterknife.BindView;
 
 /**
  * Created by Leo on 2016/10/9.
  */
 
 public class ChatFragment extends Fragment {
-
+    @BindView(R.id.radio_group)
+    RadioGroup group;
     private View rootView;
 
     @Nullable
@@ -24,8 +29,11 @@ public class ChatFragment extends Fragment {
 
         return view;*/
 
+
+
         if(rootView==null){
             rootView = inflater.inflate(R.layout.fragment_chat, null);
+
         }
         //缓存的rootView需要判断是否已经被加过parent， 如果有parent需要从parent删除，要不然会发生这个rootview已经有parent的错误。
         ViewGroup parent = (ViewGroup) rootView.getParent();

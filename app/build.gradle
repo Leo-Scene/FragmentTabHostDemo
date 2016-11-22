@@ -34,4 +34,5 @@ dependencies {
     compile 'com.android.support:cardview-v7:24.2.1'
     compile 'com.android.support:appcompat-v7:24.2.1'
     compile 'cn.yipianfengye.android:zxing-library:1.9'
+    compile 'com.jakewharton:butterknife:8.4.0'
 }

@@ -4,12 +4,56 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <TextView
-        android:textColor="#FF4500"
-        android:text="This is chat_fragment"
-        android:layout_centerInParent="true"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+    <RadioGroup
+        android:layout_marginLeft="18dp"
+        android:id="@+id/radio_group"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="4">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:button="@null"
+            android:clickable="true"
+            android:text="蓝瘦"
+            android:textColor="#77ff00"
+            android:textSize="18dp" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:button="@null"
+            android:clickable="true"
+            android:text="香菇"
+            android:textColor="#ff7700"
+            android:textSize="18dp" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:button="@null"
+            android:clickable="true"
+            android:text="蓝瘦"
+            android:textColor="#c3c3c3"
+            android:textSize="18dp" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:button="@null"
+            android:clickable="true"
+            android:text="香菇"
+            android:textColor="#ff0077"
+            android:textSize="18dp" />
+
+
+    </RadioGroup>
 
 
 </RelativeLayout>

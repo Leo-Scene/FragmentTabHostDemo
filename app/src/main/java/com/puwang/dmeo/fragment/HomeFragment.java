@@ -34,7 +34,8 @@ import static com.daimajia.slider.library.SliderLayout.PresetIndicators.Right_Bo
  * Created by Leo on 2016/10/9.
  */
 
-public class HomeFragment extends Fragment {
+public class
+HomeFragment extends Fragment {
 
     /**
      * 扫描跳转Activity RequestCode

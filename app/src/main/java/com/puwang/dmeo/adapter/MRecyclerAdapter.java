@@ -21,6 +21,8 @@ public class MRecyclerAdapter extends RecyclerView.Adapter<MRecyclerAdapter.View
     private ArrayList<ItemInfo> mArrayList;
     private LayoutInflater mInflater;
     private OnItemClickListener listener;
+    private int LAYOUT_R=0;
+    private int LAYOUT_L=1;
 
   public void setOnItemClickListener(OnItemClickListener listener){
       this.listener = listener;
@@ -36,6 +38,7 @@ public class MRecyclerAdapter extends RecyclerView.Adapter<MRecyclerAdapter.View
     @Override
     public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
 
+
         mInflater = LayoutInflater.from(parent.getContext());
 
         View view = mInflater.inflate(R.layout.recycler_item, null);
@@ -48,6 +51,12 @@ public class MRecyclerAdapter extends RecyclerView.Adapter<MRecyclerAdapter.View
         holder.name.setText(mArrayList.get(position).getName());
         holder.age.setText(mArrayList.get(position).getAge());
         holder.gender.setText(mArrayList.get(position).getGender());
+    }
+
+
+    @Override
+    public int getItemViewType(int position) {
+        return super.getItemViewType(position);
     }
 
     @Override
@@ -85,6 +94,7 @@ public class MRecyclerAdapter extends RecyclerView.Adapter<MRecyclerAdapter.View
     public interface OnItemClickListener{
         void onClick(View v,int position);
     }
+
 
 
 
