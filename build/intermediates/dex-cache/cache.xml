@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_46117da12e3a709f6ea3eb9de232dd49f0abe03b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/cn.yipianfengye.android/zxing-library/1.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85b908bac269a4217fa9050be07d6b0d4275a64d">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/cn.yipianfengye.android-zxing-library-1.9_ae5fbb3c60d676b6ac1fa3115103fbcace7024a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="88f3146fcb2ee08bd1e64ddd20dc78973079bb62">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/instant-run_29f929839d96616ed6b07e73ee081257c5f79be8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_9694503e4c5277d9b43c5e9475521bf3287deb05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_d72887c3ab5c12481a639b3756ebf7e4cf5c94ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/library-2.4.0_74827f22561330c818ac5274814e204368b89349.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3560058ca5c8b5c5746109c2316bf790fdc2f8b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b9689225f79bd8480720e8ab162b7b5d592fe84f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_1c789a0dbb812dcc61fa50ece6b03aa5e91b7c7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_6b3043d477d3e36d4d35f43029b4c05b4ae12bbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0faa328a82e8e238e6132fba327939c142808d12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/com.daimajia.slider-library-1.1.5_f2f26950770f560f899dc241b33b60220dcd9665.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9729eef22622e314759662a9b8b4ac263591e2c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/cn.yipianfengye.android/zxing-library/1.9/jars/libs/zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2450d410b99a53f2a0fc03be83a71e044995600c">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/zxing_eae3d0564397a8387cfd6f783966d5af86a3609c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_46dc6fb8e042318624495c077fd23906554ee130.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_743cee0477fd7c797a918148d3e9f5380f1b4188.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec80c7e0fdb7e06a16c0938bf7fe361be6e8be5d">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_4b62646ce656096c39bc5ee0ed00d50322fa6ce7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/picasso-2.3.2_3fd7782cafca26f4d8ff026dc5c1f278d67d1fe7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2dee87f4b6f2aed5dba8d67a8cc49068be55a6af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_d5cec6a5d823adf54f9046e8e4131ffbd0367811.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_321d3ef9da468f8351cd142946cc25551159f03e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_5c5baff7f3d4a19127d39effab43bd59deae4fb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_0f1839c86ccdd265f5904fec4ef6b10f8133cee2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_6aa76e8ff312daba57417dc627681480f11aed3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_78f720db7b1e2fc666066c4f0e88f61f9b91850b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/Leo/Desktop/Leo_Workspc/FragmentTabHostDemo/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_c2dc4f4cf4fab188f65c1025ebed4eb526874792.jar" />
+    </item>
+
+</items>
